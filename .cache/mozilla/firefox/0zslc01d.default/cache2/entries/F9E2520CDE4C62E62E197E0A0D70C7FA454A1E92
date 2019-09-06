@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>GitHub Enterprise - The best way to build and ship software</title>
+    <meta name="description" content="The power of GitHub's social coding for your own workgroup. Pricing, tour and more.">
+    <meta http-equiv="Content-type:text/html;charset=utf-8">
+    <link rel="stylesheet" media="all" href="/assets/application-1944ac0eb4caec818a146c4426f4455a539ef09fe2946d683290162aa5b804e7.css" />
+    <link rel="stylesheet" media="print" href="/assets/print-3ec21ad289fb8d870ed2f39c9faaa7c1276c9564cba83994c47d00dc082606d7.css" />
+    
+      <script src="/assets/application-cd07b587b4f85975e9c2f75496b2a759267d66b6d52319ac3c21ff8cf95ea316.js"></script>
+      
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="VZwtS0/UfKtSepsaNpn9r+prArx4pYsrQbzFfs8FwCQRmXWigy9x2BMlwW95QF1A5dQi1ZDbD0OqckfcUcvIKw==" />
+      <script src="/assets/event_tracking-de100e16446ec356fc51f84d5101fd20571cddb94fa0bbfb1a3746bf989169a1.js"></script>
+    <meta name="referrer" content="origin-when-cross-origin">
+  </head>
+  <body class="sessions-controller new-action">
+
+    <div class="site-container js-site-container">
+
+
+
+      <div class="navbar js-navbar">
+  <div class="bg"></div>
+  <div class="container">
+    <a class="site-logo" href="/">
+      <svg version="1.1" class="logo-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="204"
+   viewBox="0 0 216 30.4" enable-background="new 0 0 216 30.4" xml:space="preserve">
+<path fill="#FFFFFF" d="M105.6,12.3h-9.8v8.8h10.9V23H93.7V0.8h12.9v1.9H95.8v7.8h9.8V12.3z M118.6,12.2c0-1.9-1.1-2.5-3-2.5
+  c-1.9,0-2.9,0.3-4,0.9V23h-2.1V8.2h1.2l0.4,1.2c1.4-1,2.9-1.5,4.5-1.5c3.5,0,5,1.6,5,4.4V23h-2.1V12.2z M131.8,23.1
+  c-0.4,0.1-0.9,0.1-1.3,0.1c-2.5,0-4.7-1.1-4.7-4V9.8h-3V8.9l3-0.9V4l2.1-0.6v4.7h4.6v1.6h-4.6V19c0,1.8,1,2.5,2.8,2.5
+  c0.4,0,0.8,0,1.2-0.1V23.1z M140.3,7.9c5,0,5.6,3.4,5.6,7.7v0.9h-9.8c0.1,2.6,0.8,4.9,4.1,4.9c2.1,0,3.4-0.2,4.9-0.8v1.8
+  c-1.7,0.7-3.4,0.9-4.9,0.9c-5,0-6.2-3.4-6.2-7.7C134.1,11.3,135.3,7.9,140.3,7.9z M136.2,14.8h7.7c0-2.6-0.1-5.1-3.6-5.1
+  C136.9,9.7,136.2,12.2,136.2,14.8z M157.1,9.9c-0.4-0.1-1-0.2-1.8-0.2c-2,0-3.2,0.3-4.3,0.9V23h-2.1V8.2h1.2l0.4,1.2
+  c1.4-1,3.1-1.5,4.8-1.5c0.7,0,1.2,0.1,1.8,0.1V9.9z M161.5,22v8.3h-2.1V8.2h1.2l0.4,1.2c1.5-1,3-1.5,4.6-1.5c4.8,0,6.1,3.4,6.1,7.7
+  c0,4.3-1.3,7.7-6.1,7.7C164.3,23.3,162.8,22.9,161.5,22z M169.6,15.6c0-2.9-0.4-5.9-4-5.9c-1.9,0-3,0.3-4.1,0.9v9.8
+  c1.2,0.6,2.2,0.9,4.1,0.9C169.2,21.4,169.6,18.5,169.6,15.6z M182.8,9.9c-0.4-0.1-1-0.2-1.8-0.2c-2,0-3.2,0.3-4.3,0.9V23h-2.1V8.2
+  h1.2l0.4,1.2c1.4-1,3.1-1.5,4.8-1.5c0.7,0,1.2,0.1,1.8,0.1V9.9z M186.4,2.2c0.8,0,1.5,0.7,1.5,1.5c0,0.8-0.7,1.5-1.5,1.5
+  c-0.8,0-1.5-0.7-1.5-1.5C184.9,2.9,185.6,2.2,186.4,2.2z M185.4,20V8.2h2v12.1c0,1,0.3,1.3,1.2,1.3v1.7
+  C186.5,23.3,185.4,22.4,185.4,20z M196.4,14.5c4.2,0.4,5.2,1.8,5.2,4.2c0,2.3-1.5,4.6-6,4.6c-1.4,0-3.5-0.4-4.4-0.7v-1.8
+  c0.9,0.3,2.3,0.7,4.4,0.7c3.1,0,3.9-1.3,3.9-2.7c0-1.4-0.4-2.3-3.3-2.5c-4.3-0.4-5.2-1.9-5.2-3.9c0-2.1,1.4-4.4,5.5-4.4
+  c1.4,0,3,0.2,4.3,0.7v1.8c-1.2-0.4-2.3-0.7-4.3-0.7c-2.9,0-3.6,1.1-3.6,2.5C193,13.5,193.6,14.2,196.4,14.5z M210.4,7.9
+  c5,0,5.6,3.4,5.6,7.7v0.9h-9.8c0.1,2.6,0.8,4.9,4.1,4.9c2.1,0,3.4-0.2,4.9-0.8v1.8c-1.7,0.7-3.4,0.9-4.9,0.9c-5,0-6.2-3.4-6.2-7.7
+  C204.2,11.3,205.4,7.9,210.4,7.9z M206.2,14.8h7.7c0-2.6-0.1-5.1-3.6-5.1C206.9,9.7,206.3,12.2,206.2,14.8z M0.4,12.5 M16.6,10H9.4
+  C9.2,10,9,10.1,9,10.3v3.5c0,0.2,0.2,0.3,0.3,0.3h2.8v4.4c0,0-0.6,0.2-2.4,0.2c-2.1,0-5-0.8-5-7.1c0-6.4,3-7.2,5.8-7.2
+  c2.4,0,3.5,0.4,4.2,0.6c0.2,0.1,0.4-0.1,0.4-0.3l0.8-3.4c0-0.1,0-0.2-0.1-0.3C15.7,0.9,14,0,9.8,0C5,0,0,2.1,0,12
+  c0,9.9,5.7,11.4,10.5,11.4c4,0,6.4-1.7,6.4-1.7c0.1-0.1,0.1-0.2,0.1-0.3V10.3C17,10.1,16.8,10,16.6,10z M54.3,1.2
+  c0-0.2-0.1-0.3-0.3-0.3h-4.1c-0.2,0-0.3,0.2-0.3,0.3c0,0,0,7.9,0,7.9h-6.4V1.2c0-0.2-0.2-0.3-0.3-0.3h-4.1c-0.2,0-0.3,0.2-0.3,0.3
+  v21.4c0,0.2,0.2,0.3,0.3,0.3h4.1c0.2,0,0.3-0.2,0.3-0.3v-9.1h6.4c0,0,0,9.1,0,9.1c0,0.2,0.2,0.3,0.3,0.3H54c0.2,0,0.3-0.2,0.3-0.3
+  V1.2z M24.5,4c0-1.5-1.2-2.7-2.6-2.7c-1.5,0-2.6,1.2-2.6,2.7c0,1.5,1.2,2.7,2.6,2.7C23.3,6.7,24.5,5.5,24.5,4z M24.2,18.1
+  c0-0.5,0-9.9,0-9.9c0-0.2-0.2-0.3-0.3-0.3h-4.1c-0.2,0-0.4,0.2-0.4,0.4c0,0,0,11.9,0,14.1c0,0.4,0.3,0.5,0.6,0.5c0,0,1.7,0,3.7,0
+  c0.4,0,0.5-0.2,0.5-0.5C24.2,21.6,24.2,18.6,24.2,18.1z M70.2,7.9h-4.1c-0.2,0-0.3,0.2-0.3,0.3v10.5c0,0-1,0.8-2.5,0.8
+  c-1.5,0-1.8-0.7-1.8-2.1c0-1.4,0-9.1,0-9.1c0-0.2-0.2-0.3-0.3-0.3H57c-0.2,0-0.3,0.2-0.3,0.3c0,0,0,5.6,0,9.8c0,4.3,2.4,5.3,5.6,5.3
+  c2.7,0,4.8-1.5,4.8-1.5s0.1,0.8,0.1,0.9c0,0.1,0.2,0.2,0.3,0.2l2.6,0c0.2,0,0.3-0.2,0.3-0.3l0-14.4C70.5,8,70.4,7.9,70.2,7.9z
+   M81.5,7.4c-2.3,0-3.9,1-3.9,1V1.2c0-0.2-0.2-0.3-0.3-0.3h-4.1c-0.2,0-0.3,0.2-0.3,0.3v21.4c0,0.2,0.2,0.3,0.3,0.3c0,0,2.8,0,2.8,0
+  c0.1,0,0.2-0.1,0.3-0.2c0.1-0.1,0.2-1,0.2-1s1.7,1.6,4.8,1.6c3.7,0,5.9-1.9,5.9-8.5C87.2,8.3,83.8,7.4,81.5,7.4z M79.9,19.4
+  c-1.4,0-2.4-0.7-2.4-0.7V12c0,0,0.9-0.6,2.1-0.7c1.5-0.1,2.9,0.3,2.9,3.8C82.5,18.8,81.8,19.5,79.9,19.4z M35.9,7.8h-3.1
+  c0,0,0-4,0-4c0-0.2-0.1-0.2-0.3-0.2h-4.2c-0.2,0-0.2,0.1-0.2,0.2V8c0,0-2.1,0.5-2.2,0.5c-0.1,0-0.2,0.2-0.2,0.3v2.6
+  c0,0.2,0.2,0.3,0.3,0.3h2.1c0,0,0,2.7,0,6.3c0,4.7,3.3,5.2,5.5,5.2c1,0,2.2-0.3,2.4-0.4c0.1,0,0.2-0.2,0.2-0.3l0-2.9
+  c0-0.2-0.2-0.3-0.3-0.3c-0.2,0-0.6,0.1-1.1,0.1c-1.5,0-2-0.7-2-1.6c0-0.9,0-6,0-6h3.1c0.2,0,0.3-0.2,0.3-0.3V8.2
+  C36.2,8,36,7.8,35.9,7.8z"/>
+</svg>
+
+    </a>
+    <ul class="nav-pills">
+
+        <li>
+          <a href="/features">Features</a>
+        </li>
+        <li>
+          <a href="/case-studies">Case Studies</a>
+        </li>
+        <li>
+          <a href="/features#pricing">Pricing</a>
+        </li>
+        <li>
+          <a href="/resources">Resources</a>
+        </li>
+        <li class="ga-trial-button-contact-nav">
+          <a class="ga-trial-button-contact-nav" href="/contact">Contact</a>
+        </li>
+          <li
+>
+            <a href="/login">Sign in</a>
+          </li>
+          <li>
+            <a class="btn-primary ga-trial-button-nav" href="/trial">Try it for free</a>
+          </li>
+
+    </ul>
+  </div>
+</div>
+
+
+      <div class="container">
+        <div class="row">
+  <div class="span8 offset2">
+    <div class="page-header">
+      <h1>Sign in</h1>
+    </div>
+  </div>
+  <div class="span8 offset2">
+      <p class="alert-message danger">Invalid email or password.</p>
+  </div>
+  <div class="span4 offset2">
+    <form class="form-signin" id="new_user" action="/login" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hU32RK7VslKjOXPej2hUZ1lRznrolk+w49ZvelcpT0PMA8UF5Ts7DytQ5mdfDV5ki6DBcm61HQ370LDTOINJ/g==" />
+      <p class="input">
+        <label for="user_email">Email</label>
+        <input autofocus="autofocus" type="text" value="kavyasreemoni@gmail.com" name="user[email]" id="user_email" />
+      </p>
+      <p class="input">
+        <label for="user_password">Password</label>
+        <input type="password" name="user[password]" id="user_password" />
+      </p>
+      <p id="login-button"><button type="submit" class="btn-primary">Sign in</button></p>
+      <p id="reset-pw"><a href="/users/password/new">Forgot your password?</a></p>
+</form>  </div>
+  <div class="span1">
+    <span class="form-signin-divider">or</span>
+  </div>
+  <div class="span3">
+    <p class="form-signin-github">
+      <a id="oauth" class="btn" href="/users/auth/github">
+        <span class="octicon octicon-mark-github"></span>
+        Sign in via GitHub
+</a>    </p>
+  </div>
+  <div class="span8 offset2">
+    <hr>
+    <h3>Contact us to create your account</h3>
+    <p>GitHub Enterprise accounts are subject to approval. To create an account and start your <strong>45-day free trial</strong>, contact us today.</p>
+    <p><a href="/trial" class="btn">Contact us</a></p>
+  </div>
+</div>
+
+      </div>
+
+      <div class="footer-push"></div>
+    </div>
+
+    <div class="footer">
+  <div class="container">
+    <div class="span8 left">
+      <span class="mega-octicon octicon-mark-github"></span>
+      <p>
+        <a href="https://github.com/about">About us</a>
+        &middot;
+        <a href="/faq">FAQ</a>
+        &middot;
+        <a href="/support">Support</a>
+        &middot;
+        <a href="/security">Security</a>
+        &middot;
+        <a href="http://training.github.com/" target="_blank">Training</a>
+        &middot;
+        <a href="/privacy">Privacy</a>
+        &middot;
+        <a href="/contact">Contact</a>
+      </p>
+      <p>&copy; 2019 GitHub, Inc. All rights reserved.</p>
+    </div>
+
+    <div class="span4 right">
+      <p class="sales-number">For sales inquiries call <a href="tel:+1-877-448-4820" class="phone-number">+1 (877) 448-4820</a></p>
+    </div>
+
+  </div>
+</div>
+
+
+    
+    
+  </body>
+
+      <script>
+  function doNotTrackEnabled() {
+    if (window.doNotTrack && window.doNotTrack == "1") {
+      return true;
+    }
+    if (navigator.doNotTrack && navigator.doNotTrack == "1") {
+      return true;
+    }
+    return false;
+  }
+
+  function loadGoogleAnalytics() {
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-3769691-2', 'auto');
+    ga('send', 'pageview');
+    ga('github-dotcom.send', 'pageview');
+    ga('set', 'dimension1', "anonymous");
+
+    ga(function(){
+      var tracker = ga.getAll()[0];
+      if(tracker) {
+        $("#GATRACKID").val(tracker.get('trackingId'));
+        $("#GACLIENTID").val(tracker.get('clientId'));
+        $("#GAUSERID").val(tracker.get('userId'));
+      }
+    });
+  }
+
+  if (!doNotTrackEnabled()) {
+    loadGoogleAnalytics();
+  }
+</script>
+
+</html>
+~@çˇ{      ]r!]]r!^@≈é§       0    ~1567760433,:https://enterprise.github.com/login necko:classified 1 security-info FnhllAKWRHGAlo+ESXykKAAAAAAAAAAAwAAAAAAAAEaphjojH6pBabDSgSnsfLHeAAQAAgAAAAAAAAAAAAAAAAAAAAAB4vFIJp5wRkeyPxAQ9RJGKPqbqVvKO0mKuIl8ec8o/uhmCjImkVxP+7sgiYWmMt8F+O2DZM7ZTG6GukivU8OT5gAAAAAAAAZhMIIGXTCCBUWgAwIBAgIQAzcKtii/mNK7zeHCeX1GNDANBgkqhkiG9w0BAQsFADBwMQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3d3cuZGlnaWNlcnQuY29tMS8wLQYDVQQDEyZEaWdpQ2VydCBTSEEyIEhpZ2ggQXNzdXJhbmNlIFNlcnZlciBDQTAeFw0xOTA3MDgwMDAwMDBaFw0yMDA3MTYxMjAwMDBaMGgxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1TYW4gRnJhbmNpc2NvMRUwEwYDVQQKEwxHaXRIdWIsIEluYy4xFTATBgNVBAMMDCouZ2l0aHViLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALKk6u9UB/RrGpmany2dsicZBnCiE3XMCpvhwuSfnxQFEYaJLFhEjRQ5ZXgJNg9lw5KO3nsKxrmqKcnGJoUsQs8PO7yWhJkCEYYubWaZhKyvvE89/8ehBzKhFAGXnkMBE7NX2t9fet5HMbKsGFxXV3cnube5UHrNEp1B6uQHiyKNLIn+Mh5tufrW2IqMsm6mx0w1IHLSkwO58HR0vYToQf2azRe2rbnBwYoUuy1y4rUWEbj9JjG08VtE61JrACADyzXahrTILIFUpPUULzKmYJiv0klb24AyNxIM21ziwJoygtO0SWnm9spVHKmOlU+k5wvvkrWeQbzxyfSS+TDSUDUCAwEAAaOCAvkwggL1MB8GA1UdIwQYMBaAFFFo/5CvAgd1PMzZZWRiohK4WXI7MB0GA1UdDgQWBBTPHAIJL+PAi+ucsDd9zSXeEc4i9jAjBgNVHREEHDAaggwqLmdpdGh1Yi5jb22CCmdpdGh1Yi5jb20wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjB1BgNVHR8EbjBsMDSgMqAwhi5odHRwOi8vY3JsMy5kaWdpY2VydC5jb20vc2hhMi1oYS1zZXJ2ZXItZzYuY3JsMDSgMqAwhi5odHRwOi8vY3JsNC5kaWdpY2VydC5jb20vc2hhMi1oYS1zZXJ2ZXItZzYuY3JsMEwGA1UdIARFMEMwNwYJYIZIAYb9bAEBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwCAYGZ4EMAQICMIGDBggrBgEFBQcBAQR3MHUwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBNBggrBgEFBQcwAoZBaHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0U0hBMkhpZ2hBc3N1cmFuY2VTZXJ2ZXJDQS5jcnQwDAYDVR0TAQH/BAIwADCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2ALvZ37wfinG1k5Qjl6qSe0c4V5UKq1LoGpCWZDaOHtGFAAABa9K+djMAAAQDAEcwRQIgX887fhS8bskpm0GLMDwFpZxX9Itq6NVXic2s0u5HMkoCIQD2g/GrOkxiEBsvOU33OaBWa/YpVM2q34oPQYsT2BBiTAB2AId1v+dZfPiMQ5lfvfNu/1aNR1Y2/0q1YMG06v9eoIMPAAABa9K+dnUAAAQDAEcwRQIgKW7YYDCyZPlFtWRvxTSRnqgO8eVZaNIQircmagyJDUMCIQDTxO+FTCqXc9+zVTofe0fK27G4MgvfuWw79FcXRAJ5eTANBgkqhkiG9w0BAQsFAAOCAQEAY5betC2DT9nbXVqVXvI/JF+XUR605OvYZ1QG2OBm2ktMhgtpFoRQmh2sPHvgTijVpP9NX/jlPrnTm9Wo9w7glKqKYj+YEKgzEugiVF/q0d2NkeetEyNL6rHuvid9BS4o9Yzc8l346CDaKbV1PPkhuBNsudoG1CwgWrB/FWzw1L3UevSkmXV9ZTcgGIZFvkJOSYR6vb6nh2Pjf6B9r70PQa989SEODJ14iaD0Nb5KtE+FJH+rweQgh8ibRdZeNNbHM5t56UVL9PvXvXWMTzQ4gG0/1LcruPG4BpbHkRoKAOPjAauO4w0NMReg2qRIraSB6eLZwvpf2SyuHoaoXSgtksAvAAMAAAAAAQEAAA== request-method POST response-head HTTP/1.1 200 OK
+Server: nginx/1.12.2
+Date: Fri, 06 Sep 2019 09:05:33 GMT
+Content-Type: text/html; charset=utf-8
+Status: 200 OK
+x-frame-options: deny
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+Etag: W/"56033ab780811a5776e7621eec819a43"
+Cache-Control: max-age=0, private, must-revalidate
+X-Request-Id: 2aad3c71-e61e-43b2-87b4-c1989794ab08
+X-Runtime: 0.169724
+Timing-Allow-Origin: https://github.com
+Strict-Transport-Security: max-age=31536000
+X-GitHub-Backend: Kubernetes
+X-GitHub-Request-Id: C164:5A6B:09D0:1A8D0:5D72214A
+ charset UTF-8 uncompressed-len 0   &v

@@ -107,7 +107,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/student/today.c" added="2019-09-06T04:27:58Z" modified="2019-09-06T06:53:48Z" visited="2019-09-06T04:27:58Z">
+  <bookmark href="file:///home/student/today.c" added="2019-09-06T04:27:58Z" modified="2019-09-06T08:43:25Z" visited="2019-09-06T04:27:58Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-csrc"/>
@@ -115,7 +115,20 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-09-06T06:53:48Z" count="79"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-09-06T08:43:25Z" count="80"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/newf.c" added="2019-09-06T09:29:38Z" modified="2019-09-06T09:40:00Z" visited="2019-09-06T09:29:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-09-06T09:40:00Z" count="4"/>
         </bookmark:applications>
       </metadata>
     </info>
