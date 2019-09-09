@@ -110,3 +110,35 @@ git init
 git add
 git status
 git commit -a
+git add
+ls
+ls-l
+ls -l
+git add
+git init
+git add
+git commit -m "my life first git commit"
+get add .
+git add .
+git status
+git commit -m "my life first git commit"
+git push -u origin master
+git status
+get add .
+gedit diag,c
+gedit diad.c
+gedit dia.c
+gedit dcc.c
+cc dcc -o ll
+gedit dcc.c
+gedit mine.c
+cc dcc -o li
+cc mine.c -o lg
+gedit mine.c
+ls
+mine.c
+cc mine.c
+gedit mine.c
+cc mine.c
+gcc mine.c
+gedit first.c

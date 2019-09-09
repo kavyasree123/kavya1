@@ -12,3 +12,65 @@ ERROR 2019-09-06 10:41:29 unity.settings UnitySettings.cpp:293 Invalid monitor i
 
 (process:4318): GLib-CRITICAL **: g_path_get_basename: assertion 'file_name != NULL' failed
 WARN  2019-09-06 15:17:02 unity.iconloader IconLoader.cpp:756 Unable to load icon file:/// at size -1x22: Can't open directory
+WARN  2019-09-06 15:50:55 unityreak_table (break_type) <unknown>:0 Invalid UTF-8 string passed to pango_layout_set_text()
+WARN  2019-09-06 15:50:55 unityreak_table (break_type) <unknown>:0 Invalid UTF-8 string passed to pango_layout_set_text()
+WARN  2019-09-06 15:51:01 unityreak_table (break_type) <unknown>:0 Invalid UTF-8 string passed to pango_layout_set_text()
+ERROR 2019-09-06 15:56:33 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-06 16:24:38 unity.lockscreen LockScreenController.cpp:218 Impossible to get the grab to lock the screen
+WARN  2019-09-06 17:20:48 unity.a11y.expanderview unity-expander-view-accessible.cpp:185 has_focus = 1
+WARN  2019-09-06 17:25:59 unity.a11y.expanderview unity-expander-view-accessible.cpp:185 has_focus = 0
+ERROR 2019-09-06 17:52:28 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-06 17:57:51 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-06 18:06:05 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-06 18:06:50 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-06 18:07:02 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-06 18:14:33 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-07 10:47:50 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-07 11:45:57 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-07 11:49:02 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-07 11:59:16 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+javaldx: Could not find a Java Runtime Environment!
+Warning: failed to read path from javaldx
+
+(soffice:8500): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+
+(soffice:8514): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+
+(soffice:8514): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+ERROR 2019-09-07 12:36:14 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-07 12:44:59 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-07 12:51:04 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-07 12:52:11 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+
+(nautilus:8787): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:8787): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:8787): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:8787): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:8787): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+ERROR 2019-09-07 13:31:38 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+1567848983012	addons.repository	WARN	Search failed when repopulating cache
+1567848984171	addons.update-checker	WARN	onUpdateCheckComplete failed to parse update manifest: [Exception... "Update manifest is missing a required addons property."  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/addons/AddonUpdateChecker.jsm :: getRequiredProperty :: line 466"  data: no] Stack trace: getRequiredProperty()@resource://gre/modules/addons/AddonUpdateChecker.jsm:466 < parseJSONManifest()@resource://gre/modules/addons/AddonUpdateChecker.jsm:476 < UpdateParser.prototype.onLoad/parser()@resource://gre/modules/addons/AddonUpdateChecker.jsm:647 < UpdateParser.prototype.onLoad()@resource://gre/modules/addons/AddonUpdateChecker.jsm:667 < UpdateParser/<()@resource://gre/modules/addons/AddonUpdateChecker.jsm:585
+1567848984689	addons.update-checker	WARN	onUpdateCheckComplete failed to parse update manifest: [Exception... "Update manifest is missing a required addons property."  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/addons/AddonUpdateChecker.jsm :: getRequiredProperty :: line 466"  data: no] Stack trace: getRequiredProperty()@resource://gre/modules/addons/AddonUpdateChecker.jsm:466 < parseJSONManifest()@resource://gre/modules/addons/AddonUpdateChecker.jsm:476 < UpdateParser.prototype.onLoad/parser()@resource://gre/modules/addons/AddonUpdateChecker.jsm:647 < UpdateParser.prototype.onLoad()@resource://gre/modules/addons/AddonUpdateChecker.jsm:667 < UpdateParser/<()@resource://gre/modules/addons/AddonUpdateChecker.jsm:585
+1567848985560	addons.update-checker	WARN	onUpdateCheckComplete failed to parse update manifest: [Exception... "Update manifest is missing a required addons property."  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/addons/AddonUpdateChecker.jsm :: getRequiredProperty :: line 466"  data: no] Stack trace: getRequiredProperty()@resource://gre/modules/addons/AddonUpdateChecker.jsm:466 < parseJSONManifest()@resource://gre/modules/addons/AddonUpdateChecker.jsm:476 < UpdateParser.prototype.onLoad/parser()@resource://gre/modules/addons/AddonUpdateChecker.jsm:647 < UpdateParser.prototype.onLoad()@resource://gre/modules/addons/AddonUpdateChecker.jsm:667 < UpdateParser/<()@resource://gre/modules/addons/AddonUpdateChecker.jsm:585
+1567848985683	addons.xpi	WARN	System add-on baidu-code-update@mozillaonline.com isn't compatible with the application.
+1567848985691	addons.xpi	ERROR	Failed to clean updated system add-ons directories.: Unix error 2 during operation DirectoryIterator.prototype.next on file /home/student/.mozilla/firefox/0zslc01d.default/features (No such file or directory) ((unknown module)) No traceback available
+1567848985695	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIProvider.jsm:3059:1) JS Stack trace: this.XPIProvider.updateSystemAddons<@XPIProvider.jsm:3059:1
+1568002376740	addons.repository	WARN	Search failed when repopulating cache
+1568002377811	addons.update-checker	WARN	onUpdateCheckComplete failed to parse update manifest: [Exception... "Update manifest is missing a required addons property."  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/addons/AddonUpdateChecker.jsm :: getRequiredProperty :: line 466"  data: no] Stack trace: getRequiredProperty()@resource://gre/modules/addons/AddonUpdateChecker.jsm:466 < parseJSONManifest()@resource://gre/modules/addons/AddonUpdateChecker.jsm:476 < UpdateParser.prototype.onLoad/parser()@resource://gre/modules/addons/AddonUpdateChecker.jsm:647 < UpdateParser.prototype.onLoad()@resource://gre/modules/addons/AddonUpdateChecker.jsm:667 < UpdateParser/<()@resource://gre/modules/addons/AddonUpdateChecker.jsm:585
+1568002377866	addons.update-checker	WARN	onUpdateCheckComplete failed to parse update manifest: [Exception... "Update manifest is missing a required addons property."  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/addons/AddonUpdateChecker.jsm :: getRequiredProperty :: line 466"  data: no] Stack trace: getRequiredProperty()@resource://gre/modules/addons/AddonUpdateChecker.jsm:466 < parseJSONManifest()@resource://gre/modules/addons/AddonUpdateChecker.jsm:476 < UpdateParser.prototype.onLoad/parser()@resource://gre/modules/addons/AddonUpdateChecker.jsm:647 < UpdateParser.prototype.onLoad()@resource://gre/modules/addons/AddonUpdateChecker.jsm:667 < UpdateParser/<()@resource://gre/modules/addons/AddonUpdateChecker.jsm:585
+1568002378194	addons.update-checker	WARN	onUpdateCheckComplete failed to parse update manifest: [Exception... "Update manifest is missing a required addons property."  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/addons/AddonUpdateChecker.jsm :: getRequiredProperty :: line 466"  data: no] Stack trace: getRequiredProperty()@resource://gre/modules/addons/AddonUpdateChecker.jsm:466 < parseJSONManifest()@resource://gre/modules/addons/AddonUpdateChecker.jsm:476 < UpdateParser.prototype.onLoad/parser()@resource://gre/modules/addons/AddonUpdateChecker.jsm:647 < UpdateParser.prototype.onLoad()@resource://gre/modules/addons/AddonUpdateChecker.jsm:667 < UpdateParser/<()@resource://gre/modules/addons/AddonUpdateChecker.jsm:585
+1568002378590	addons.xpi	WARN	System add-on baidu-code-update@mozillaonline.com isn't compatible with the application.
+1568002378605	addons.xpi	ERROR	Failed to clean updated system add-ons directories.: Unix error 2 during operation DirectoryIterator.prototype.next on file /home/student/.mozilla/firefox/0zslc01d.default/features (No such file or directory) ((unknown module)) No traceback available
+1568002378606	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIProvider.jsm:3059:1) JS Stack trace: this.XPIProvider.updateSystemAddons<@XPIProvider.jsm:3059:1
+ERROR 2019-09-09 10:04:11 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-09 10:09:06 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-09 10:14:02 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-09 10:14:27 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-09 10:17:45 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-09 10:26:13 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-09 10:29:21 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-09 14:31:32 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
