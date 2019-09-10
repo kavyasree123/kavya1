@@ -74,3 +74,28 @@ ERROR 2019-09-09 10:17:45 unity.settings UnitySettings.cpp:293 Invalid monitor i
 ERROR 2019-09-09 10:26:13 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
 ERROR 2019-09-09 10:29:21 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
 ERROR 2019-09-09 14:31:32 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+javaldx: Could not find a Java Runtime Environment!
+Warning: failed to read path from javaldx
+
+(soffice:15240): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+
+(soffice:15240): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+ERROR 2019-09-09 17:08:52 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-09 17:49:58 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-10 10:13:45 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-10 10:14:17 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-10 10:16:53 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+1568090952774	addons.repository	WARN	Search failed when repopulating cache
+1568090953884	addons.update-checker	WARN	onUpdateCheckComplete failed to parse update manifest: [Exception... "Update manifest is missing a required addons property."  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/addons/AddonUpdateChecker.jsm :: getRequiredProperty :: line 466"  data: no] Stack trace: getRequiredProperty()@resource://gre/modules/addons/AddonUpdateChecker.jsm:466 < parseJSONManifest()@resource://gre/modules/addons/AddonUpdateChecker.jsm:476 < UpdateParser.prototype.onLoad/parser()@resource://gre/modules/addons/AddonUpdateChecker.jsm:647 < UpdateParser.prototype.onLoad()@resource://gre/modules/addons/AddonUpdateChecker.jsm:667 < UpdateParser/<()@resource://gre/modules/addons/AddonUpdateChecker.jsm:585
+1568090954390	addons.update-checker	WARN	onUpdateCheckComplete failed to parse update manifest: [Exception... "Update manifest is missing a required addons property."  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/addons/AddonUpdateChecker.jsm :: getRequiredProperty :: line 466"  data: no] Stack trace: getRequiredProperty()@resource://gre/modules/addons/AddonUpdateChecker.jsm:466 < parseJSONManifest()@resource://gre/modules/addons/AddonUpdateChecker.jsm:476 < UpdateParser.prototype.onLoad/parser()@resource://gre/modules/addons/AddonUpdateChecker.jsm:647 < UpdateParser.prototype.onLoad()@resource://gre/modules/addons/AddonUpdateChecker.jsm:667 < UpdateParser/<()@resource://gre/modules/addons/AddonUpdateChecker.jsm:585
+1568090955459	addons.update-checker	WARN	onUpdateCheckComplete failed to parse update manifest: [Exception... "Update manifest is missing a required addons property."  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/addons/AddonUpdateChecker.jsm :: getRequiredProperty :: line 466"  data: no] Stack trace: getRequiredProperty()@resource://gre/modules/addons/AddonUpdateChecker.jsm:466 < parseJSONManifest()@resource://gre/modules/addons/AddonUpdateChecker.jsm:476 < UpdateParser.prototype.onLoad/parser()@resource://gre/modules/addons/AddonUpdateChecker.jsm:647 < UpdateParser.prototype.onLoad()@resource://gre/modules/addons/AddonUpdateChecker.jsm:667 < UpdateParser/<()@resource://gre/modules/addons/AddonUpdateChecker.jsm:585
+1568090955766	addons.xpi	WARN	System add-on baidu-code-update@mozillaonline.com isn't compatible with the application.
+1568090955778	addons.xpi	ERROR	Failed to clean updated system add-ons directories.: Unix error 2 during operation DirectoryIterator.prototype.next on file /home/student/.mozilla/firefox/0zslc01d.default/features (No such file or directory) ((unknown module)) No traceback available
+1568090955780	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIProvider.jsm:3059:1) JS Stack trace: this.XPIProvider.updateSystemAddons<@XPIProvider.jsm:3059:1
+ERROR 2019-09-10 10:29:51 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-10 10:30:48 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-10 10:40:54 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-10 10:42:59 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-10 11:52:08 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-10 12:05:40 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2019-09-10 12:31:12 unity.settings UnitySettings.cpp:293 Invalid monitor index: -1. Returning index 0 monitor instead.

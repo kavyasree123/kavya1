@@ -142,3 +142,263 @@ gedit mine.c
 cc mine.c
 gcc mine.c
 gedit first.c
+cc mine.c
+git add mine.c
+cc mine.c -o lu
+gedit mine.c
+cc mine.c -o lu
+gedit mine.c
+cc mine.c -o lu
+gedit mine.c
+cc mine.c -o lu
+./lu
+cc mine.c -o lu
+./lu
+cc mine.c -o lu
+./lu
+gedit mine.c
+cc mine.c -o lu
+./lu
+cc mine.c -o lu
+./lu
+cc mine.c -o lu
+./lu
+cc mine.c -o lu
+./lu
+cc mine.c -o lu
+./lu
+gedit news.c
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+cc news.c -o lw
+./lw
+./lw hello bye
+./lw _hello bye
+./lw_ hello bye
+./lw _hello bye
+gdb ./news.c
+gcc -g string.c -o ipl
+gcc -g strin
+
+info br
+gcc -g string.c -o ipl
+gcc -g news.c -o ipl
+gdb ./ipl
+CLEAR
+clear
+git init
+git add .
+git status
+git commit -m "my life first git commit"
+git push -u origin master
+gcc -g news.c -o ipl
+cc news.c -o lp
+./lp
+cc news.c -o lp
+./lp
+cc news.c -o lp
+./lp
+cc news.c -o lp
+./lp
+cc news.c -o lp
+./lp
+cc news.c -o lp
+./lp
+cc news.c -o lp
+./lp
+cc news.c -o lp
+./lp
+cc news.c -o lp
+./lp
+cc news.c -o lp
+./lp
+cc news.c -o lp
+./lp
+cc news.c -o lp
+./lp
+cc news.c -o lp
+./lp
+cc news.c -o lp
+./lp
+cc news.c -o lp
+./lp
+cc news.c -o lp
+./lp
+cc news.c -o lp
+./lp
+cc news.c -o lp
+./lp
+cc news.c -o lp
+./lp
+cc news.c -o lp
+./lp
+SUDO SU
+sudo su

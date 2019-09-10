@@ -3,7 +3,7 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///home/student/first.c" added="2019-09-05T10:21:42Z" modified="2019-09-06T10:18:49Z" visited="2019-09-05T10:21:42Z">
+  <bookmark href="file:///home/student/first.c" added="2019-09-05T10:21:42Z" modified="2019-09-10T05:01:50Z" visited="2019-09-05T10:21:42Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-csrc"/>
@@ -11,7 +11,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-09-06T10:18:49Z" count="4"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-09-10T05:01:50Z" count="5"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -173,7 +173,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/student/news.c" added="2019-09-06T12:25:37Z" modified="2019-09-09T05:15:32Z" visited="2019-09-06T12:25:38Z">
+  <bookmark href="file:///home/student/news.c" added="2019-09-06T12:25:37Z" modified="2019-09-10T11:25:38Z" visited="2019-09-06T12:25:38Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-csrc"/>
@@ -181,7 +181,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-09-09T05:15:32Z" count="157"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-09-10T11:25:38Z" count="276"/>
         </bookmark:applications>
       </metadata>
     </info>
